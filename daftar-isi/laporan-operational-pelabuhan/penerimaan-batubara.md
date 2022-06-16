@@ -4,4 +4,4 @@
 
 ![](../../.gitbook/assets/Penerimaanbatubara.png)
 
-Tabel ini menginformasikan penerimaan batubara perharinya. Gunakan filter-filter untuk mendapatkan sesuai pilihan
+Tabel ini menginformasikan penerimaan batubara perharinya. Carilah penerimaan batubara dengan menggunakan filter-filter yang sudah di sediakan.

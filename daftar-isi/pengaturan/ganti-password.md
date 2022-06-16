@@ -6,6 +6,8 @@
 
 ​Form ini digunakan untuk mengganti atau mengubah password user
 
+Cara mengubah passwordnya sebagai berikut :&#x20;
+
 * Password : Masukan password yang digunakan
 * Password Baru : Masukan password baru yang ingin digunakan
 * Ulangi Password : Ulangi password baru yang ingin digunakan

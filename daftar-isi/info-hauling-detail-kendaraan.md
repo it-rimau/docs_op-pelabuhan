@@ -4,7 +4,7 @@
 
 ![](<../.gitbook/assets/rincian aktifitas dt r.png>)
 
-Tabel ini menginformasikan rincian penerimaan BB (bahan bakar) kendaraan setiap harinya
+Tabel ini menginformasikan kendaraan yang melakukan pengiriman batubara. Bisa mengubah tanggal dan tipe kendaraan sesuai pilihan
 
 ### RITASE BREAKDOWN/PARKIR/NON-AKTIP
 

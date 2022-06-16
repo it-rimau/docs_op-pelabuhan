@@ -9,3 +9,5 @@ DT SAMPAI TUJUAN adalah tabel yang menginformasikan truk pengiriman batubara sud
 ### PENGIRIMAN SELESAI
 
 ![](../.gitbook/assets/completed.png)
+
+Form ini memberikan data ketika truk sudah selesai mengirimkan batubara dari tambang ke pelabuhan.

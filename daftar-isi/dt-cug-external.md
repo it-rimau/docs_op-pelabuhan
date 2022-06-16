@@ -1,2 +1,0 @@
-# NOTA BBM
-
